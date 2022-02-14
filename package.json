@@ -1,11 +1,12 @@
 {
 	"name": "git-commit-no-verify-action-button",
-	"displayName": "git-commit-button",
+	"displayName": "Git commit(no verify)",
 	"description": "This exstension allow quickly commit changes without run pre-commit hooks",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
+	"icon": "resources/logo.png",
 	"categories": [
 		"Other"
 	],
